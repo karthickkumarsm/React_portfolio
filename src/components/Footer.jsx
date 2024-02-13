@@ -17,15 +17,16 @@ const Footer = () => {
                         <span className="text-[14px] mr-[9px] font-bold">Linkedin</span>    
                     </a>
 
-                    <p className="flex flex-row items-center my-[15px]">
-                    <HiOutlineMail/>
-                    <a href='mailto:sivakumarkarthickkumar@gmail.com'  target="_blank">
-                        <span className="text-[14px] font-bold">sivakumarkarthickkumar@gmail.com</span> </a> 
-                    </p>
                 </div>
             </div>
         </div>
-        <p className="text-center font-bold">Made By Karthick Kumar SM</p>
+        
+        <p className="flex flex-row items-center my-[15px] justify-center">
+                    <HiOutlineMail/>
+                    <a href='mailto:sivakumarkarthickkumar@gmail.com'  target="_blank">
+                        <span className="text-[14px] font-bold text-center">sivakumarkarthickkumar@gmail.com</span> </a> 
+                    </p>
+        <p className="text-center font-bold m-6">Made By Karthick Kumar SM</p>
     </div>
   )
 }
