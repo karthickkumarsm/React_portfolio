@@ -14,28 +14,28 @@ const Experience = () => {
             </div>
                 <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                     <div>
-                        <p className='sm:Text-right text-4xl font-bold pb-3'> 
+                        <p className='sm:Text-right text-3xl font-bold pb-3'> 
                             GirlScript Summer of Code(GSSoC)<br/>
                             <div className='pb-2 pt-2 text-blue-300'>Open Source Contributor</div>
                            (Remote)<br/>May 2024 - Present
                         </p>
                     </div>
                     <div>
-                        <p className='sm:Text-right text-4xl font-bold pb-3'> 
+                        <p className='sm:Text-right text-3xl font-bold pb-3'> 
                             Visanka Technologies Pvt Ltd<br/>
                             <div className='pb-2 pt-2 text-blue-300'>Flutter developer Intern</div>
                            (Remote)<br/>Feb-2024
                         </p>
                     </div>
                     <div>
-                        <p className='sm:Text-right text-4xl font-bold pb-3'> 
+                        <p className='sm:Text-right text-3xl font-bold pb-3'> 
                             The Sparks Foundation<br/>
                             <div className='pb-2 pt-2 text-blue-300'>Web developer Intern</div>
                            (Remote)<br/>Sept-2023
                         </p>
                     </div> 
                     <div>
-                        <p className='sm:Text-right text-4xl font-bold pb-3'> 
+                        <p className='sm:Text-right text-3xl font-bold pb-3'> 
                             Code Alpha<br/>
                             <div className='pb-2 pt-2 text-blue-300'>Web developer Intern</div>
                            (Remote)<br/>Aug-2023
