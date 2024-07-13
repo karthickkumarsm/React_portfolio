@@ -44,11 +44,10 @@ const Home = () => {
           <HiArrowNarrowRight className='ml-4'/>
           </span>
           </button>
-          <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-600 hover:border-blue-600 sm:ml-5'>
-          <a href='https://www.dropbox.com/scl/fi/ry5a2roeylvpne8txmij5/Karthick_Kumar_SM_Resume.pdf?rlkey=yricu1qd420mvs5ff185ynoo9&st=5xm98rid&dl=0' target="_blank" className='flex items-center justify-between w-full'>
-                        Resume <BsFillPersonLinesFill className='ml-4' size={25}/>
-          </a>
+          <a href='https://www.dropbox.com/scl/fi/ry5a2roeylvpne8txmij5/Karthick_Kumar_SM_Resume.pdf?rlkey=yricu1qd420mvs5ff185ynoo9&st=5xm98rid&dl=0' target="_blank" className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-600 hover:border-blue-600 sm:ml-5'>
+          <button className='flex items-center justify-between w-full'> Resume <BsFillPersonLinesFill className='ml-4' size={25}/>
           </button>
+          </a>
         </div>
       </div>
     </div>
