@@ -2,6 +2,7 @@ import React,{useState} from 'react';
 import {HiArrowNarrowRight} from 'react-icons/hi';
 import { Link } from "react-scroll";
 import { TypeAnimation } from 'react-type-animation';
+import {BsFillPersonLinesFill} from 'react-icons/bs';
 
 const Home = () => {
   const [nav, setNav] = useState(false);
@@ -32,16 +33,21 @@ const Home = () => {
                     repeat={Infinity}
                     /></h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>I am a student currently pursuing 
-        Third year Bachelors of Engineering degree in Computer Science who has passionate over 
+        Final year Bachelors of Engineering degree in Computer Science who has passionate over 
         Software development and hunger to learn something new everyday </p>
-        <div>
-          <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
+        <div className='flex flex-col sm:flex-row'>
+          <button className='text-white group border-2 px-6 py-3 my-2 flex items-center justify-between hover:bg-pink-600 hover:border-pink-600'>
           <Link onClick={handleClick} to="project" smooth={true} duration={500}>
                         View Work
                     </Link>
           <span className='group-hover:rotate-90 duration-300'>
           <HiArrowNarrowRight className='ml-4'/>
           </span>
+          </button>
+          <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-600 hover:border-blue-600 sm:ml-5'>
+          <a href='https://www.dropbox.com/scl/fi/ry5a2roeylvpne8txmij5/Karthick_Kumar_SM_Resume.pdf?rlkey=yricu1qd420mvs5ff185ynoo9&st=5xm98rid&dl=0' target="_blank" className='flex items-center justify-between w-full'>
+                        Resume <BsFillPersonLinesFill className='ml-4' size={25}/>
+          </a>
           </button>
         </div>
       </div>
