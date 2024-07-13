@@ -13,6 +13,13 @@ const Experience = () => {
                 {/* <div></div> */}
             </div>
                 <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
+                <div>
+                        <p className='sm:Text-right text-3xl font-bold pb-3'> 
+                            AlgAI Technologies<br/>
+                            <div className='pb-2 pt-2 text-blue-300'>Full Stack Developer Intern</div>
+                           (Remote)<br/>July 2024 - Present
+                        </p>
+                    </div>
                     <div>
                         <p className='sm:Text-right text-3xl font-bold pb-3'> 
                             GirlScript Summer of Code(GSSoC)<br/>
@@ -34,13 +41,6 @@ const Experience = () => {
                            (Remote)<br/>Sept-2023
                         </p>
                     </div> 
-                    <div>
-                        <p className='sm:Text-right text-3xl font-bold pb-3'> 
-                            Code Alpha<br/>
-                            <div className='pb-2 pt-2 text-blue-300'>Web developer Intern</div>
-                           (Remote)<br/>Aug-2023
-                        </p>
-                    </div>
                 </div>
             </div>
         </div>
