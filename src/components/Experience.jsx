@@ -24,7 +24,7 @@ const Experience = () => {
                         <p className='sm:Text-right text-3xl font-bold pb-3'> 
                             GirlScript Summer of Code(GSSoC)<br/>
                             <div className='pb-2 pt-2 text-blue-300'>Open Source Contributor</div>
-                           (Remote)<br/>May 2024 - Jul 2024
+                           (Remote)<br/>May 2024 - Aug 2024
                         </p>
                     </div>
                     <div>
