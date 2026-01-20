@@ -21,7 +21,7 @@ const Skill = () => {
           <p  className='font-bold text-4xl inline border-b-4 border-pink-600'>
             Skills
           </p> 
-          <p className='py-4'>These are the technologies I've been working with my projects.</p> 
+          <p className='py-4'>These are the technologies I have been working with my projects.</p> 
         </div>
         <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-4'>
         <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
