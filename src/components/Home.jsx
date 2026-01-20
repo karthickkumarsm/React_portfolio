@@ -42,7 +42,7 @@ const Home = () => {
           <HiArrowNarrowRight className='ml-4'/>
           </span>
           </button>
-          <a href='https://www.dropbox.com/scl/fi/ifz1tcjsj2itzik392hi8/Karthick_Kumar_SM_Resume.pdf?rlkey=p5rio5rhogau62oechxaw8yp0&st=6zkl3ga1&dl=0' target="_blank" rel="noopener noreferrer" className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-600 hover:border-blue-600 sm:ml-5'>
+          <a href='https://www.dropbox.com/scl/fi/ifz1tcjsj2itzik392hi8/Karthick_Kumar_SM_Resume.pdf?rlkey=p5rio5rhogau62oechxaw8yp0&st=e24x6ggp&dl=0' target="_blank" rel="noopener noreferrer" className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-600 hover:border-blue-600 sm:ml-5'>
           <button className='flex items-center justify-between w-full'> Resume <BsFillPersonLinesFill className='ml-4' size={25}/>
           </button>
           </a>
