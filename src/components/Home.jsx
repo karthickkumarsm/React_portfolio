@@ -32,9 +32,7 @@ const Home = () => {
                     speed={30}
                     repeat={Infinity}
                     /></h2>
-        <p className='text-[#8892b0] py-4 max-w-[700px]'>I am a student currently pursuing 
-        Final year Bachelors of Engineering degree in Computer Science who has passionate over 
-        Software development and hunger to learn something new everyday </p>
+        <p className='text-[#8892b0] py-4 max-w-[700px]'>I am a 2025 Bachelor of Engineering graduate in Computer Science, passionate about software development and eager to learn something new every day.</p>
         <div className='flex flex-col sm:flex-row'>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center justify-between hover:bg-pink-600 hover:border-pink-600'>
           <Link onClick={handleClick} to="project" smooth={true} duration={500}>
