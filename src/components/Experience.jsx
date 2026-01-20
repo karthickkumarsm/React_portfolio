@@ -17,28 +17,28 @@ const Experience = () => {
                         <p className='sm:Text-right text-3xl font-bold pb-3'> 
                             AlgAI Technologies<br/>
                             <div className='pb-2 pt-2 text-blue-300'>Full Stack Developer Intern</div>
-                           (Remote)<br/>July 2024 - Present
+                           (Remote)<br/>Jul 2024 - Nov 2024
                         </p>
                     </div>
                     <div>
                         <p className='sm:Text-right text-3xl font-bold pb-3'> 
                             GirlScript Summer of Code(GSSoC)<br/>
                             <div className='pb-2 pt-2 text-blue-300'>Open Source Contributor</div>
-                           (Remote)<br/>May 2024 - Present
+                           (Remote)<br/>May 2024 - Jul 2024
                         </p>
                     </div>
                     <div>
                         <p className='sm:Text-right text-3xl font-bold pb-3'> 
                             Visanka Technologies Pvt Ltd<br/>
                             <div className='pb-2 pt-2 text-blue-300'>Flutter developer Intern</div>
-                           (Remote)<br/>Feb-2024
+                           (Remote)<br/>Feb 2024 - Feb 2024
                         </p>
                     </div>
                     <div>
                         <p className='sm:Text-right text-3xl font-bold pb-3'> 
                             The Sparks Foundation<br/>
                             <div className='pb-2 pt-2 text-blue-300'>Web developer Intern</div>
-                           (Remote)<br/>Sept-2023
+                           (Remote)<br/>Sep 2023 - Sep 2023
                         </p>
                     </div> 
                 </div>
